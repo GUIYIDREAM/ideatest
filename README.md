@@ -6,6 +6,7 @@ commit push 提交代码
 pull  跟新代码
 clone 下载整个仓库
 
+https://www.cnblogs.com/liluxiang/p/9474925.html  gti提交代码的错误
 
 Ctrl
 快捷键	介绍
