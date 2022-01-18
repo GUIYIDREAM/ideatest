@@ -8,6 +8,8 @@ clone 下载整个仓库
 
 https://www.cnblogs.com/liluxiang/p/9474925.html  gti提交代码的错误
 
+https://www.jianshu.com/p/1fab2302109c?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation  git登陆慢
+
 Ctrl
 快捷键	介绍
 Ctrl + F	在当前文件进行文本查找 （必备）
